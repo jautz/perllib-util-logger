@@ -1,0 +1,14 @@
+# Revision history for Perl extension Util::Logger.
+
+0.21    2009-12-30
+
+- changed packaging only, no changes of the module itself
+
+0.20    2004-10-17
+
+- several undocumented early bug fixes since 0.1.0
+- fixed bug in _getWrappedMessage that cut lines and lost characters
+
+0.10    2004-01-22
+
+- initial version
